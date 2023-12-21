@@ -44,3 +44,4 @@ else:
     print("Sorry, that's not correct.")
 
 print("Congratulations! You got " + str(score) + " questions correct!")
+print("That's " + str(score/5 * 100) + "%!")
